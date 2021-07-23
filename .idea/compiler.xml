@@ -12,12 +12,14 @@
         <module name="gulimall-ware" />
         <module name="gulimall-product" />
         <module name="renren-fast" />
+        <module name="guliamll-getway" />
         <module name="renren-generator" />
         <module name="gulimall-member" />
         <module name="gulimall-common" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="guliamll-getway" target="1.8" />
       <module name="gulimall" target="1.8" />
       <module name="gulimall-common" target="1.8" />
       <module name="gulimall-coupon" target="1.8" />
